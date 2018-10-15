@@ -9,3 +9,10 @@ if you edited your home folder on windows to like d:\users\name it may not detec
 
 for Mac and linux user you may need to run this under sudo or root.
 
+# How to use
+
+open a terminal/command line key in
+python clipboardlogger.py
+
+press Ctrl-Q to stop
+
